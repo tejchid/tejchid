@@ -26,7 +26,7 @@ Some highlights from my journey:
 ---
 
 ## Get in Touch  
-🌐 My Portfolio: [tejasportfolio1.webflow.io](https://tejasportfolio1.webflow.io/work/project-1)  
+🌐 My Portfolio: [tejasportfolio1.webflow.io](https://tejasportfolio1.webflow.io)  
 🐙 GitHub: [github.com/tejaschid](https://github.com/tejchid)  
 ✉️ Email: tejchidco@gmail.com  
 📱 LinkedIn: [linkedin.com/in/tejaschid](https://linkedin.com/in/tejaschid)  
